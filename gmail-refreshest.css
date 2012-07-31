@@ -1,0 +1,46 @@
+/* gmail-refreshest: a custom gmail css by @roycifer */
+/* some button styles borrowed from twitter bootstrap */
+/* @match mail.google.com */
+
+body, td, input, textarea, select {font-family:"Helvetica Neue",helvetica,arial,sans-serif;}
+.w-asV > .nH:last-child {display: none;}
+.w-asV > .nH > .no , #gbx1, #gbx2{background-image: -webkit-linear-gradient(top,white,#F7F7F7);}
+.w-as1.nr{height:27px;border-radius:3px;}
+.gbeti#gb .gbqldr, .gbet#gbqlw .gbqldr, .gbesi#gb .gbqldr, .gbes#gbqlw .gbqldr{max-height:35px;margin-top:3px;}
+.gbqfqw{border-radius:3px;}
+.w-asZ .L3,.gbqfb{margin-right:4px;padding:0 4px;color:#fff;text-shadow:0 -1px 0 #000;cursor:pointer;background-image:-webkit-linear-gradient(top, #555, #222);border:1px solid #000;border-radius:3px;}
+.w-asZ .L3:hover, .w-asZ .L3:active, .gbqfb:hover, .gbqfb:active{background:#333;border-color:#000;}
+.T-I-ax7, .T-I-KE, .ej .Bq{font-family:"Helvetica Neue",helvetica,arial,sans-serif;font-weight:normal;padding:0 4px;height:24px;line-height:24px;color:#333;text-shadow:0 1px 0 #fff;cursor:pointer;border:1px solid #000;border-radius:3px;background-image:-webkit-linear-gradient(top, white, #E6E6E6) !important;border:1px solid #ccc !important;}
+.T-I-ax7:hover, .T-I-ax7:active, .T-I-KE:hover, .T-I-KE:active, .ej .Bq:hover, .ej .Bq:active{background:#e6e6e6 !important;box-shadow:0 0 2px #eee;}
+.T-I .T-I-J3{margin-top:-5px;}
+.Cq .T-I{margin-right:4px;}
+.Cr .ash.T-I{margin-left:4px;}
+.J-N, .J-LC, .J-JK{padding-left:20px;}
+.J-M{color:#444;border-radius:2px;}
+.akh{font-family:'Georgia',Times,serif;}
+.nM{font-size:75%;}
+.aeN .ajl{font-family:'Georgia',Times,serif;}
+.Dj,.adl{font-family:'Georgia',Times,serif;}
+.TO .n0{color:#888;}
+.n1 .n0{color:#444 !important;}
+h3.Wr{font-family:'Georgia',Times,serif;font-size:13px;}
+.xY{font-size:75%;}
+.Wq, .Wo, .Wq-A8{background-position:3px 6px;}
+.ar {font-family: 11px "Helvetica Neue",arial,sans-serif;}
+.zE{color:#333;}
+.zE:hover{background:#f3f3f3;}
+.yO{color:#444;background:#f9f9f9;}
+.yO:hover {background:#f3f3f3;}
+h1.ha{font-family:'Georgia',Times,serif;}
+.ajn, .ajo{border-radius:3px;}
+.adv .adx{font-family:'Georgia',Times,serif;font-style:italic;color:#888;}
+.gH .gK,.hx .gH{font-family:'Georgia',Times,serif;}
+.zt .xW{font-family:'Georgia',Times,serif;}
+.nr, .dI, .Ar, .X-LD-Q-Kv, .p0{border-radius:3px;}
+.mj,.mp,.ma,.l6,.l3,.mo,.l9,.l8,.iY .md, .iY .mh, .iY .aeY, .iY .l3, .iY .l6, .iY .l9, .iY .ma, .iY .l8, .iY .mb{font-family:'Georgia',Times,serif;line-height:17px;color:#999;}
+.mb{display:none;}
+.eh{background:transparent;}
+.eh .dW{padding:0;background:transparent;}
+.vC{color:#666;}
+.t6, .t7, .SK{border-radius:3px;}
+.aeU {display: none;}
